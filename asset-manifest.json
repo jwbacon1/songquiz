@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/songquiz/static/css/main.90d7fbf4.chunk.css",
+    "main.js": "/songquiz/static/js/main.ea205c5b.chunk.js",
+    "main.js.map": "/songquiz/static/js/main.ea205c5b.chunk.js.map",
+    "runtime-main.js": "/songquiz/static/js/runtime-main.4dd5e279.js",
+    "runtime-main.js.map": "/songquiz/static/js/runtime-main.4dd5e279.js.map",
+    "static/js/2.64954675.chunk.js": "/songquiz/static/js/2.64954675.chunk.js",
+    "static/js/2.64954675.chunk.js.map": "/songquiz/static/js/2.64954675.chunk.js.map",
+    "static/js/3.c85af2df.chunk.js": "/songquiz/static/js/3.c85af2df.chunk.js",
+    "static/js/3.c85af2df.chunk.js.map": "/songquiz/static/js/3.c85af2df.chunk.js.map",
+    "index.html": "/songquiz/index.html",
+    "static/css/main.90d7fbf4.chunk.css.map": "/songquiz/static/css/main.90d7fbf4.chunk.css.map",
+    "static/js/2.64954675.chunk.js.LICENSE.txt": "/songquiz/static/js/2.64954675.chunk.js.LICENSE.txt",
+    "static/media/newlogo.8e0c7434.jpg": "/songquiz/static/media/newlogo.8e0c7434.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd5e279.js",
+    "static/js/2.64954675.chunk.js",
+    "static/css/main.90d7fbf4.chunk.css",
+    "static/js/main.ea205c5b.chunk.js"
+  ]
+}
